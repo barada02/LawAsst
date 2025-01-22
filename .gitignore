@@ -111,3 +111,6 @@ cython_debug/
 
 # VS Code
 .vscode/
+
+# Added secrets.toml to the .gitignore file
+secrets.toml
